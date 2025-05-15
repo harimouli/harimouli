@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey, I'm Hari Mouli aka codeSniper<br><br>I'm a focused day coder, savage problem solver, and DSA hunter ⚔️  <br>Passionate about building impactful products and sniping down tough coding challenges.<br><br>🎯 **Currently:**  <br>- Grinding DSA on LeetCode.<br>- Building full-stack web apps using **MERN stack**  <br>- Learning system design & CS fundamentals  <br>- Fighting with sem exams like a ninja 🥷</h2>
+<h3 align="left">👋 Hey, I'm Hari Mouli aka codeSniper<br><br>I'm a focused day coder, savage problem solver, and DSA hunter ⚔️  <br>Passionate about building impactful products and sniping down tough coding challenges.<br><br>🎯 **Currently:**  <br>- Grinding DSA on LeetCode.<br>- Building full-stack web apps using **MERN stack**  <br>- Learning system design & CS fundamentals  <br>- Fighting with sem exams like a ninja 🥷</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="200" src="https://res.cloudinary.com/doimdc1vv/image/upload/v1747328330/d3cradh3hdezx73eiywx.jpg"  />
+<img align="left" height="300" src="https://res.cloudinary.com/doimdc1vv/image/upload/v1747328330/d3cradh3hdezx73eiywx.jpg"  />
 
 ###
 
