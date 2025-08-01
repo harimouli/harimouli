@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=MouliTHEMachine%20👨‍💻&fontColor=ffffff&fontSize=36&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20DSA%20Grinder%20%7C%20Andhra%20Boy&descAlign=50&descAlignY=65" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harimouli&label=Profile%20Views&color=0e75b6&style=flat-square" alt="harimouli" />
+</p>
 
 <!-- 🧠 Typing Intro Animation -->
 <p align="center">
